@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "bugs_aplenty:green_cobbled_terracotta",
+    "bugs_aplenty:black_cobbled_terracotta",
+    "bugs_aplenty:gray_cobbled_terracotta",
+    "bugs_aplenty:light_gray_cobbled_terracotta",
+    "bugs_aplenty:white_cobbled_terracotta",
+    "bugs_aplenty:brown_cobbled_terracotta",
+    "bugs_aplenty:purple_cobbled_terracotta",
+    "bugs_aplenty:pink_cobbled_terracotta",
+    "bugs_aplenty:magenta_cobbled_terracotta",
+    "bugs_aplenty:blue_cobbled_terracotta",
+    "bugs_aplenty:cyan_cobbled_terracotta",
+    "bugs_aplenty:light_blue_cobbled_terracotta",
+    "bugs_aplenty:lime_cobbled_terracotta",
+    "bugs_aplenty:yellow_cobbled_terracotta",
+    "bugs_aplenty:orange_cobbled_terracotta",
+    "bugs_aplenty:red_cobbled_terracotta",
+    "bugs_aplenty:cobbled_terracotta",
+    "bugs_aplenty:termite_nest"
+  ]
+}

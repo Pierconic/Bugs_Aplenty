@@ -1,0 +1,47 @@
+{
+  "loader": "neoforge:separate_transforms",
+  "gui_light": "front",
+  "base": {
+    "parent": "bugs_aplenty:custom/copper_net",
+    "textures": {
+      "0": "bugs_aplenty:block/copper_net"
+    },
+    "display": {
+      "thirdperson_righthand": {
+			"rotation": [13, 11, 0],
+			"translation": [-0.5, -0.5, 2.5]
+		},
+      "thirdperson_lefthand": {
+			"rotation": [13, 11, 0],
+			"translation": [0.75, -0.5, 2.5]
+		},
+      "firstperson_righthand": {
+			"rotation": [15, 15, 0],
+			"translation": [0, -4.75, -2.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [15, 15, 0],
+			"translation": [0, -4.75, -2.75]
+		}
+    }
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "bugs_aplenty:item/copper_net"
+      },
+      "gui_light": "front"
+    },
+    "ground": {
+    	"parent": "item/generated",
+      "textures": {
+        "layer0": "bugs_aplenty:item/copper_net"}
+    },
+    "fixed": {
+    	"parent": "item/generated",
+      "textures": {
+        "layer0": "bugs_aplenty:item/copper_net"}
+    }
+  }
+}

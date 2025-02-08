@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:dead_bush",
+    "minecraft:grass",
+    "minecraft:fern",
+    "minecraft:tall_grass",
+    "minecraft:dandelion",
+    "minecraft:poppy",
+    "minecraft:blue_orchid",
+    "minecraft:allium",
+    "minecraft:azure_bluet",
+    "minecraft:red_tulip",
+    "minecraft:orange_tulip",
+    "minecraft:white_tulip",
+    "minecraft:pink_tulip",
+    "minecraft:oxeye_daisy",
+    "minecraft:cornflower",
+    "minecraft:sunflower",
+    "minecraft:air",
+    "minecraft:cave_air",
+    "minecraft:snow",
+    "minecraft:moss_carpet",
+    "minecraft:brown_mushroom",
+    "minecraft:red_mushroom",
+    "minecraft:pink_petals"
+  ]
+}

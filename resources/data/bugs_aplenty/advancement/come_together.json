@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "bugs_aplenty:copper_net"
+    },
+    "title": {
+      "translate": "advancements.come_together.title"
+    },
+    "description": {
+      "translate": "advancements.come_together.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "come_together_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "minecraft:husbandry/tame_an_animal"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bugs_aplenty:block/termite_nest_bottom",
+    "up": "bugs_aplenty:block/termite_nest_top",
+    "north": "bugs_aplenty:block/termite_nest_side_3",
+    "east": "bugs_aplenty:block/termite_nest_side_3",
+    "south": "bugs_aplenty:block/termite_nest_side_3",
+    "west": "bugs_aplenty:block/termite_nest_side_3",
+    "particle": "bugs_aplenty:block/termite_nest_bottom"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "savanna",
+    "wooded_badlands"
+  ],
+  "features": "bugs_aplenty:termite_mound",
+  "step": "surface_structures"
+}

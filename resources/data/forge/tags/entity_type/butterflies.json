@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "bugs_aplenty:monarch_butterfly",
+    "bugs_aplenty:sunbeam_butterfly",
+    "bugs_aplenty:hairstreak_butterfly",
+    "bugs_aplenty:sapphire_butterfly",
+    "bugs_aplenty:aetherwing_butterfly",
+    "bugs_aplenty:buckeye_butterfly",
+    "bugs_aplenty:malachite_butterfly",
+    "bugs_aplenty:painted_butterfly",
+    "bugs_aplenty:pastel_butterfly",
+    "bugs_aplenty:peacock_butterfly",
+    "bugs_aplenty:polychrome_butterfly",
+    "bugs_aplenty:prismwing_butterfly",
+    "bugs_aplenty:snowlace_butterfly",
+    "bugs_aplenty:sootwing_butterfly",
+    "bugs_aplenty:swallowtail_butterfly",
+    "bugs_aplenty:twilit_butterfly"
+  ]
+}

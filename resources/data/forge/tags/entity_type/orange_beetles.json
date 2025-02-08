@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "bugs_aplenty:beetle_orange_plain",
+    "bugs_aplenty:beetle_orange_plain_shiny",
+    "bugs_aplenty:beetle_orange_spotted",
+    "bugs_aplenty:beetle_orange_spotted_shiny",
+    "bugs_aplenty:beetle_orange_striped",
+    "bugs_aplenty:beetle_orange_striped_shiny"
+  ]
+}

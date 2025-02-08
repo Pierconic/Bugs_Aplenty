@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "bugs_aplenty:block/termite_nest"
+    },
+    "blockstate=1": {
+      "model": "bugs_aplenty:block/termite_nest_states_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "bugs_aplenty:block/termite_nest_states_blockstate_1"
+    },
+    "blockstate=3": {
+      "model": "bugs_aplenty:block/termite_nest_states_blockstate_2"
+    }
+  }
+}

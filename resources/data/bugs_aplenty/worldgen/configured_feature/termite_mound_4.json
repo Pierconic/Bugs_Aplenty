@@ -1,0 +1,14 @@
+{
+  "type": "bugs_aplenty:structure_feature",
+  "config": {
+    "structure": "bugs_aplenty:termite_nest_4",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": "minecraft:air",
+    "offset": [
+      0,
+      -1,
+      0
+    ]
+  }
+}

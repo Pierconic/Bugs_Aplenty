@@ -1,0 +1,94 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.termite",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 1.5,
+				"visible_bounds_offset": [0, 0.25, 0]
+			},
+			"bones": [
+				{
+					"name": "Jaw2",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-2, 0, -7], "size": [1, 1, 2], "uv": [0, 3]}
+					]
+				},
+				{
+					"name": "Jaw1",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [1, 0, -7], "size": [1, 1, 2], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "Body",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-2.5, 0, -3], "size": [5, 4, 6], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "Abdomen",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-1.5, 1, 0], "size": [3, 4, 5], "uv": [0, 10]}
+					]
+				},
+				{
+					"name": "Leg6",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-4, 0, 1.5], "size": [2, 2, 1], "uv": [16, 12]}
+					]
+				},
+				{
+					"name": "Leg5",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [2, 0, 1.5], "size": [2, 2, 1], "uv": [11, 10]}
+					]
+				},
+				{
+					"name": "Leg4",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-4, 0, -0.5], "size": [2, 2, 1], "uv": [15, 18]}
+					]
+				},
+				{
+					"name": "Leg3",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [2, 0, -0.5], "size": [2, 2, 1], "uv": [16, 15]}
+					]
+				},
+				{
+					"name": "Leg2",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [2, 0, -2.5], "size": [2, 2, 1], "uv": [6, 19]}
+					]
+				},
+				{
+					"name": "Leg1",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-4, 0, -2.5], "size": [2, 2, 1], "uv": [0, 19]}
+					]
+				},
+				{
+					"name": "Head",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-1.5, 0, -6], "size": [3, 3, 3], "uv": [16, 0]}
+					]
+				}
+			]
+		}
+	]
+}
