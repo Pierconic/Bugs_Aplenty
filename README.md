@@ -1,0 +1,3 @@
+Essentially just adds a lot of bugs to minecraft.
+...That is, adds ambient sounds in the form of beetles, which feature different colors and sounds depending on their biome, and visual ambience in the form of butterflies, and dragonflies, whose wings can be used to produce Levitation Potions. Further, introduces termites and termite nests, which can be used as an alternative means of automating wood farms. All bugs use a custom coded ambient spawning system intended to reduce lag.
+Bugs can be captured in bottles using the Copper Net, and beetles can effectively be used as musical insturnments when captured in this manner. At this point, each bug variant is technically a unique mob type, which is almost certainly the best and only way this could have been organized.
